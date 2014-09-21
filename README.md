@@ -1,6 +1,6 @@
 TSP
 ===
-=========================Pankaj Yadav ===============================================================================
+=========================Pankaj Yadav ===============
 (Regarding to project initilzation and eval function)
 TSP.cpp is the code main file .
 inp is the name of file from where you can input
@@ -13,4 +13,4 @@ Data Structre:
   array x to store x cordinate of cities
   array y to store y cordinate of cities
   array dist to store distance between two cities dist[i][j] will  give distance between i+1 and j+1 .(as per warnings)
-========================Tapan Chugn ==================================================================================
+========================Tapan Chugn =================
